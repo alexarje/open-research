@@ -6,4 +6,4 @@ Some Open Research resources, starting with a set of illustrations to explain wh
 
 ## License
 
-All images are released with a [CC-BY](license)
+All images are released with a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
