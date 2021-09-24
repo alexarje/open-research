@@ -1,9 +1,17 @@
 # Open Research
 
-Some Open Research resources, starting with a set of illustrations to explain what Open Research is about.
+Here I will collect some of my general Open Research resources. For now, there is only the "puzzle illustration" I always use to explain what Open Research is about. First an [English](https://github.com/alexarje/open-research/tree/main/puzzle-illustration/English) version: 
 
-![Open Research](https://raw.githubusercontent.com/alexarje/open-research/main/puzzle-illustration/English/open-research-puzzle.png)
+![Open Research](https://www.arj.no/wp-content/2021/09/open-research-puzzle.png)
+
+And one in [Norwegian](https://github.com/alexarje/open-research/tree/main/puzzle-illustration/Norwegian): 
+
+![Åpen forskning[(https://www.arj.no/wp-content/2021/09/Apen-forskning-puslespill-2048x865.png)
+
+## Source files
+
+The illustrations were made in LibreOffice Impress. Original .odp files are available in the [source folders](https://github.com/alexarje/open-research/tree/main/puzzle-illustration). There are also Powerpoint (.pptx) versions and exports to .pdf and .png.
 
 ## License
 
-All images are released with a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
+These files are released with a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
