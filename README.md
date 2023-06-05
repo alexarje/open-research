@@ -6,7 +6,7 @@ Here I will collect some of my general Open Research resources. For now, there i
 
 And one in [Norwegian](https://github.com/alexarje/open-research/tree/main/puzzle-illustration/Norwegian): 
 
-![Åpen forskning]([https://www.arj.no/wp-content/2021/09/Apen-forskning-puslespill-2048x865.png](https://www.arj.no/images/2021/09/Apen-forskning-puslespill-1024x432.png))
+![Åpen forskning](https://www.arj.no/images/2021/09/Apen-forskning-puslespill-1024x432.png)
 
 ## Source files
 
